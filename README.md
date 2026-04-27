@@ -1,6 +1,6 @@
-🏭 Warehouse Task Allocation & Optimisation System
+# 🏭 Warehouse Task Allocation & Optimisation System
 
-📌 Overview
+# 📌 Overview
 
 This project simulates warehouse operations and applies machine learning techniques to optimise task allocation and improve workforce efficiency.
 
@@ -21,28 +21,24 @@ Rule-based optimisation for worker allocation
 Performance comparison: random vs optimised assignment
 Workload visualisation
 # 🛠️ Tech Stack
-Python 🐍
-Pandas
-NumPy
-Scikit-learn
-Matplotlib
+-Python 
+- Pandas
+- NumPy
+- Scikit-learn
+- Matplotlib
 # ⚙️ Workflow
-Generate simulated warehouse dataset
-Preprocess and scale features
-Apply K-Means clustering to group tasks
-Assign tasks to workers using optimisation logic
-Compare workload distribution (before vs after optimisation)
-Visualise results using bar charts
+- Generate simulated warehouse dataset
+- Preprocess and scale features
+- Apply K-Means clustering to group tasks
+- Assign tasks to workers using optimisation logic
+- Compare workload distribution (before vs after optimisation)
+- Visualise results using bar charts
 # 📊 Results
-Achieved balanced workload distribution across workers
-Reduced inefficiencies compared to random allocation
-Demonstrated practical use of clustering in operational optimisation
-#🚀 Future Improvements
-Implement Reinforcement Learning for dynamic task allocation
-Add real-time dashboard using Streamlit
-Extend model to multi-warehouse systems
-Integrate cost-based optimisation
-#👩‍💻 Author
+- Achieved balanced workload distribution across workers
+- Reduced inefficiencies compared to random allocation
+- Demonstrated practical use of clustering in operational optimisation
+
+# 👩‍💻 Author
 
 Maria Kausar
 MSc Artificial Intelligence 
