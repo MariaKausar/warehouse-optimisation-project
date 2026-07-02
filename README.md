@@ -41,4 +41,4 @@ Workload visualisation
 # 👩‍💻 Author
 
 Maria Kausar
-MSc Artificial Intelligence   mar
+MSc Artificial Intelligence   ma
