@@ -13,6 +13,7 @@ To develop an AI-driven system that:
 Groups similar warehouse tasks using clustering
 Allocates tasks efficiently across workers
 Improves workload balance and reduces inefficiencies
+
 # 🧠 Key Features
 Synthetic warehouse dataset generation
 Data preprocessing and feature scaling
