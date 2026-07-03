@@ -4,7 +4,7 @@
 
 This project simulates warehouse operations and applies machine learning techniques to optimise task allocation and improve workforce efficiency.
 
-It demonstrates how K-Means clustering and rule-based optimisation can be used to balance workloads and improve operational decision-making in warehouse environments.
+It demonstrates how K-Means clustering and rule-based optimisation can be used to balance workloads and improve operational decision-making in warehouse environments. en
 
 # 🎯 Objective
 
