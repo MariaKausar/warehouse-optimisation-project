@@ -22,7 +22,7 @@ Rule-based optimisation for worker allocation
 Performance comparison: random vs optimised assignment
 Workload visualisation
 # 🛠️ Tech Stack
--Python 
+- Python 
 - Pandas
 - NumPy
 - Scikit-learn
